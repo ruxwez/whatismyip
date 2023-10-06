@@ -69,11 +69,11 @@ function App() {
         <p class={'animate__animated animate__fadeInUp'}>
           Create by{' '}
           <a
-            href="http://github.com/ruxwez"
+            href="https://www.bravinta.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Ruxwez
+            Bravinta
           </a>
         </p>
       </div>
