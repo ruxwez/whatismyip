@@ -62,7 +62,7 @@ function App() {
           </h2>
           {isCopy && (
             <p id={PopperID} class={'popper animate__animated animate__fadeIn'}>
-              Copiado
+              Copied
             </p>
           )}
         </button>
